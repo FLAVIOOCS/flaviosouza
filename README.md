@@ -16,7 +16,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" style="object-fit: contain;"/>
   <img src="https://img.icons8.com/?size=48&id=kTTt25v6Drpd&format=png" alt="Powerautomate" width="40" height="40" style="object-fit: contain;"/>
   <img src="https://img.icons8.com/?size=100&id=qYfwpsRXEcpc&format=png&color=000000" alt="PowerBI" width="40" height="40" style="object-fit: contain;"/>
-  <img src="https://img.icons8.com/?size=100&id=qYfwpsRXEcpc&format=png&color=000000" alt="QlikSense" width="40" height="40" style="object-fit: contain;"/>
+  <img src="https://img.icons8.com/?size=100&id=qYfwpsRXEcpc&format=png&color=000000" alt="Qlik Sense" width="40" height="40" style="object-fit: contain;"/>
 </div>
   
   ##
