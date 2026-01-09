@@ -1,8 +1,8 @@
 ## Olá, eu sou o Flávio.
 
-- 🈸 Atualmente trabalho com ferramentas Low-Code (PowerApps, PowerAutomate, Sharepoint)
-- 📊 Crio painéis com PowerBI
-- 🐍 Estudando Python
+- 🈸 Desenvolvedor Low Code (PowerApps, PowerAutomate, Sharepoint)
+- 🐍 Desenvolvedor Python
+- 📊 Crio painéis com PowerBI e QlikSense
 
 <div> 
   <a href="https://beacons.ai/flavioocs">
@@ -16,7 +16,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" style="object-fit: contain;"/>
   <img src="https://img.icons8.com/?size=48&id=kTTt25v6Drpd&format=png" alt="Powerautomate" width="40" height="40" style="object-fit: contain;"/>
   <img src="https://img.icons8.com/?size=100&id=qYfwpsRXEcpc&format=png&color=000000" alt="PowerBI" width="40" height="40" style="object-fit: contain;"/>
-  <img src="https://img.icons8.com/?size=100&id=qYfwpsRXEcpc&format=png&color=000000" alt="Qlik Sense" width="40" height="40" style="object-fit: contain;"/>
 </div>
   
   ##
