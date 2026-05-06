@@ -1,8 +1,8 @@
 ## Olá, eu sou o Flávio.
 
 - 🈸 Desenvolvedor Low Code (PowerApps, PowerAutomate, Sharepoint)
-- 🐍 Desenvolvedor Python
-- 📊 Crio painéis com PowerBI e QlikSense
+- 🐍 Desenvolvedor Python (Automações)
+- 📊 Crio painéis gerenciais com PowerBI e QlikSense
 
 <div> 
   <a href="https://beacons.ai/flavioocs">
